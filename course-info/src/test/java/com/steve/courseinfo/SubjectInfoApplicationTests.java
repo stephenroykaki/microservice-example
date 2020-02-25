@@ -1,10 +1,10 @@
-package com.steve.subjectinfo;
+package com.steve.courseinfo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SubjectInfoApplicationTests {
+class CourseInfoApplicationTests {
 
 	@Test
 	void contextLoads() {
